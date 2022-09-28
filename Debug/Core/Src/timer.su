@@ -1,0 +1,8 @@
+../Core/Src/timer.c:28:6:Set1SecTime	16	static
+../Core/Src/timer.c:33:6:SetBlinkingLightTime	16	static
+../Core/Src/timer.c:38:6:Set7SegTime	16	static
+../Core/Src/timer.c:44:6:RunTime	4	static
+../Core/Src/timer.c:67:9:Timer1SecFlag	4	static
+../Core/Src/timer.c:71:9:Timer7SegFlag	4	static
+../Core/Src/timer.c:75:9:TimerLightFlag	4	static
+../Core/Src/timer.c:79:6:HAL_TIM_PeriodElapsedCallback	16	static

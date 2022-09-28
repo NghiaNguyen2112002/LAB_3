@@ -1,0 +1,10 @@
+../Core/Src/input_processing.c:40:6:INIT_INPUT_PROCESSING	4	static
+../Core/Src/input_processing.c:50:6:CopyModiToRun	16	static
+../Core/Src/input_processing.c:56:6:CopyRunToModi	16	static
+../Core/Src/input_processing.c:62:6:IncreaseTime	16	static
+../Core/Src/input_processing.c:70:6:UpdateMode	8	static
+../Core/Src/input_processing.c:76:6:UpdateLightPara	4	static
+../Core/Src/input_processing.c:83:6:TrafficLightConvention	4	static
+../Core/Src/input_processing.c:115:6:CountdownTime	8	static
+../Core/Src/input_processing.c:122:6:BlinkLed	16	static
+../Core/Src/input_processing.c:137:6:fsm_for_input_processing	8	static

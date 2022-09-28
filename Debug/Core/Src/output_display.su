@@ -1,0 +1,8 @@
+../Core/Src/output_display.c:30:6:Enable7SEG	16	static
+../Core/Src/output_display.c:34:6:Display7SEG	16	static
+../Core/Src/output_display.c:40:6:DisplayLight	16	static
+../Core/Src/output_display.c:44:6:DisplayLight1	16	static
+../Core/Src/output_display.c:48:6:DisplayLight2	16	static
+../Core/Src/output_display.c:52:6:LightOff	4	static
+../Core/Src/output_display.c:56:6:UpdateLed7SegBuffer	16	static
+../Core/Src/output_display.c:68:6:Update7Seg	16	static
